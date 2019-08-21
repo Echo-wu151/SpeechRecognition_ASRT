@@ -1,0 +1,11 @@
+*.pyc
+checkpoint/model_*
+*DNN4yzsb.h5
+logs_lm/model_*.data-00000-of-00001
+logs_lm/model_*.index
+logs_lm/model_*.meta
+logs_lm/checkpoint
+logs_*m/*/saved_model.pb
+logs_*m/*/variables/variables.data-00000-of-00001
+logs_*m/*/variables/variables.index
+*events.out.*
